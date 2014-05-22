@@ -13,13 +13,13 @@ git clone git://github.com/JuliaLang/julia-vim.git
 Add a new bundle to your `.vimrc`:
 
 ``` vim
-Bundle 'JuliaLang/julia-vim'
+Plugin 'JuliaLang/julia-vim'
 ```
 
 Run `vim` and update your bundles:
 
 ``` vim
-:BundleInstall!
+:PluginInstall!
 ```
 
 ### Manually
